@@ -29,7 +29,7 @@
 ### Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Martial Arts?Importance in my life..](https://l.instagram.com/?u=https%3A%2F%2Fmedium.com%2F%40deepesh.durairajan%2Fwhy-martial-arts-importance-in-my-life-1eee7883049c&e=ATNcy3zu4uEZE_fx-lc9DJ8P1iezvC9c1VCm1Ia3Hue-gdK-wxX5RuCvXXk2QuPloOfnKOGaUQvOj8uRJGcYfTM&s=1)
+- [Why Martial Arts?Importance in my life..](https://medium.com/@deepesh.durairajan/why-martial-arts-importance-in-my-life-1eee7883049c)
 <!-- BLOG-POST-LIST:END -->
 
 ### Hit Me Up!
