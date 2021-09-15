@@ -26,6 +26,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="Scala" width="50" height="50"/> 
 
+### Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Why Martial Arts?Importance in my life..](https://l.instagram.com/?u=https%3A%2F%2Fmedium.com%2F%40deepesh.durairajan%2Fwhy-martial-arts-importance-in-my-life-1eee7883049c&e=ATNcy3zu4uEZE_fx-lc9DJ8P1iezvC9c1VCm1Ia3Hue-gdK-wxX5RuCvXXk2QuPloOfnKOGaUQvOj8uRJGcYfTM&s=1)
+<!-- BLOG-POST-LIST:END -->
 
 ### Hit Me Up!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepesh%20Durairajan-blue)](https://www.linkedin.com/in/deepesh-durairajan-90135719b)
