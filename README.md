@@ -1,7 +1,6 @@
-(https://i.pinimg.com/originals/7a/81/24/7a81240359e212d40a665222ff3d13aa.jpg)
-
 
 ## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Deepesh!!
+(https://github.com/deepeshdurairajan/deepeshdurairajan/blob/main/istockphoto-1124643920-170667a.jpg)
 
 ### My Skills 
 - R                                  
