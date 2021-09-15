@@ -1,12 +1,14 @@
 ## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Deepesh Durairajan!! 
 
 ### My Skills 
-- R                                  - Java/C
-- Python                             - Data Visualization
+- R                                  
+- Python                             
 - Machine Learning/Deep Learning
 - Tableau
 - MongoDb
 - Neural Networks
+- Java/C
+- Data Visualization
 
 
 
