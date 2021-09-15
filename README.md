@@ -1,6 +1,6 @@
 
 ## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Deepesh!!
-![Computer Science](https://www.rubyconsystems.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmpPQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--227a339bd678e9e1f0818fb655cfc9637eda91c0/subbanner-defaultog.jpg)
+![Computer Science](https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-blue-modern-city-skyline-business-banner-background-image_519692.jpg)
 
 ### My Skills 
 - R                                  
