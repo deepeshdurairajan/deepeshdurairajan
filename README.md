@@ -1,6 +1,6 @@
 ## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Deepesh Durairajan!! 
 
-### My Skills include
+### My Skills 
 - R                                  - Java/C
 - Python                             - Data Visualization
 - Machine Learning/Deep Learning
