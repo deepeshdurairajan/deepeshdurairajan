@@ -3,4 +3,4 @@
 ### Hit Me Up!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepesh%20Durairajan-blue)](https://www.linkedin.com/in/deepesh-durairajan-90135719b)
 [![Mail](https://img.shields.io/badge/Mail-deepeshdurairajan%40gmail.com-green)](mailto:deepesh.durairajan@gamil.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40deepeshdurairajan-orange)](https://www.instagram.com/deepeshdurairajan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40deepesh.durairajan-orange)](https://www.instagram.com/deepeshdurairajan/)
