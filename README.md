@@ -1,6 +1,5 @@
 
 ## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Deepesh!!
-![Computer Science](https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-blue-modern-city-skyline-business-banner-background-image_519692.jpg)
 
 ### My Skills 
 - R                                  
