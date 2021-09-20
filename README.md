@@ -9,8 +9,8 @@
 - MongoDb
 - Neural Networks
 - Java/C
-- Data Visualization
 - SQL
+- Data Visualization
 
 
 ### Toolbox
