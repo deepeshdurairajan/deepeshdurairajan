@@ -10,6 +10,7 @@
 - Neural Networks
 - Java/C
 - Data Visualization
+- SQL
 
 
 ### Toolbox
