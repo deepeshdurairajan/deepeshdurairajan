@@ -36,7 +36,7 @@
 
 ### Hit Me Up!
 <hr>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/deepesh-durairajan-90135719b/">
     <img src="https://img.shields.io/badge/-Deepesh%20Durairajan-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
