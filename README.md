@@ -35,9 +35,21 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Hit Me Up!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepesh%20Durairajan-blue)](https://www.linkedin.com/in/deepesh-durairajan-90135719b)
-[![Mail](https://img.shields.io/badge/Mail-deepesh.durairajan%40gmail.com-green)](mailto:deepesh.durairajan@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40deepeshdurairajan-orange)](https://www.instagram.com/deepeshdurairajan/)
+<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepesh-durairajan-90135719b/">
+    <img src="https://img.shields.io/badge/-Deepesh%20Durairajan-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepesh.durairajan@gmail.com">
+    <img src="https://img.shields.io/badge/-deepesh.durairajan@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/deepeshdurairajan/">
+    <img src="https://img.shields.io/badge/-@deepeshdurairajan-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+  
+</p>
+  
+<hr>
 
 
 
