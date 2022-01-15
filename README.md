@@ -5,6 +5,12 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/deepeshdurairajan/count.svg)
 
+I am a Third year BTech student at Vellore Institute of Technology pursuing Computer Science Engineering.A technology enthusiast with a passion to do best in what I focus and do. Hunger to learn every day drives the passion to achieve more and learn something new every day.
+
+As a hobby I like to be involved in outdoor activities such as swimming,skating,hiking and martial arts.I am currently a 1st Dan blackbelt in Shito-Ryu style karate and have competed in state level tournaments.Being a athlete keeps me on track and helps me stay focused and achieve my goals.
+
+I have a wide range of skills that include Machine Learning with Python,R,Tableau,Apache Spark and Scala,Deep Learning,Sql and Frontend Web Development tools such as HTML and CSS.
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
