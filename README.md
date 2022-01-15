@@ -1,54 +1,36 @@
+### Hi Developers 👋
 
-## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Deepesh!!
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 
-### My Skills 
-- R                                  
-- Python                             
-- Machine Learning/Deep Learning
-- Tableau
-- MongoDb
-- Neural Networks
-- Java/C
-- SQL
-- Data Visualization
+![Visitor Count](https://profile-counter.glitch.me/deepeshdurairajan/count.svg)
 
-
-### Tools
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" alt="Apache" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" alt="TensorFlow" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="Scala" width="40" height="40"/> 
-
-### Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Why Martial Arts?Importance in my life..](https://medium.com/@deepesh.durairajan/why-martial-arts-importance-in-my-life-1eee7883049c)
-<!-- BLOG-POST-LIST:END -->
-
-### Hit Me Up!
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepesh-durairajan-90135719b/">
-    <img src="https://img.shields.io/badge/-Deepesh%20Durairajan-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deepeshdurairajan&column=7"/>
   </a>
-  <a href="mailto:deepesh.durairajan@gmail.com">
-    <img src="https://img.shields.io/badge/-deepesh.durairajan@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/deepeshdurairajan/">
-    <img src="https://img.shields.io/badge/-@deepeshdurairajan-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-  
-</p>
+</div>
 
+Languages and Tools: 
 
+<img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=flat-square&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
 
+![](https://activity-graph.herokuapp.com/graph?username=deepeshdurairajan&theme=react-dark&area=true)
+<!--
+**deepeshdurairajan/deepeshdurairajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: .....
+
+-->
 
 
