@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepesh-durairajan-90135719b/)](https://www.linkedin.com/in/deepesh-durairajan-90135719b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-deepesh-green)](https://deepeshdurairajan.github.io/deepesh_profile/)
+[![Website Badge](https://img.shields.io/badge/My WebSite-Deepesh-green)](https://deepeshdurairajan.github.io/deepesh_profile/)
 
 ![Visitor Count](https://profile-counter.glitch.me/deepeshdurairajan/count.svg)
 
