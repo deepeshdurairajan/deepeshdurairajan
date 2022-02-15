@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepesh-durairajan-90135719b/)](https://www.linkedin.com/in/deepesh-durairajan-90135719b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Deepesh-green)](https://deepeshdurairajan.github.io/deepesh_profile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Deepesh-green)](https://deepeshdurairajan.github.io/portfolio/)
 
 I am a Third year BTech student at Vellore Institute of Technology pursuing Computer Science Engineering.A technology enthusiast with a passion to do best in what I focus and do. Hunger to learn every day drives the passion to achieve more and learn something new every day.
 
